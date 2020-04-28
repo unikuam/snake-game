@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbc55729.chunk.css",
+    "main.js": "/static/js/main.11fda007.chunk.js",
+    "main.js.map": "/static/js/main.11fda007.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fe76298c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fe76298c.js.map",
+    "static/js/2.0d2564a6.chunk.js": "/static/js/2.0d2564a6.chunk.js",
+    "static/js/2.0d2564a6.chunk.js.map": "/static/js/2.0d2564a6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d04678f6c37410eb54013508d39668cf.js": "/precache-manifest.d04678f6c37410eb54013508d39668cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bbc55729.chunk.css.map": "/static/css/main.bbc55729.chunk.css.map",
+    "static/js/2.0d2564a6.chunk.js.LICENSE.txt": "/static/js/2.0d2564a6.chunk.js.LICENSE.txt",
+    "static/media/eatingSound.mp3": "/static/media/eatingSound.0546a2ba.mp3",
+    "static/media/gameOver.wav": "/static/media/gameOver.a0e8feea.wav",
+    "static/media/replay-icon.png": "/static/media/replay-icon.3fe6d8ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe76298c.js",
+    "static/js/2.0d2564a6.chunk.js",
+    "static/css/main.bbc55729.chunk.css",
+    "static/js/main.11fda007.chunk.js"
+  ]
+}
